@@ -225,7 +225,7 @@
           },
           "title": "Överblick&nbsp;",
           "text": "Säljaren har full kontroll över vilka artiklar som finns på<br>respektive gruppering och kan ta action på rätt butiker.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#contacts5-v\" data-toolbar=\"-mbrBtnMove\">Kontakta mig</a>",
           "_tags": [
             "Theme"
           ],
