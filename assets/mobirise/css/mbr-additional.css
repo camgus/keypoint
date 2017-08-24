@@ -411,8 +411,20 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#form1-8 .form-control-label {
-  color: #232323;
+#header5-u .mbr-section-title {
+  color: #ffffff;
+}
+#header5-u .mbr-section-lead {
+  color: #ffffff;
+}
+#header5-16 .mbr-section-title {
+  color: #ffffff;
+}
+#header5-16 .mbr-section-lead {
+  color: #ffffff;
+}
+#testimonials2-q .card-block P {
+  text-align: center;
 }
 #ext_menu-h .hide-buttons .nav-btn {
   display: none !important;
@@ -474,4 +486,29 @@ h6,
 #ext_menu-h .link[aria-expanded="true"],
 #ext_menu-h .dropdown-item[aria-expanded="true"] {
   color: #00a885!important;
+}
+#contacts5-v p,
+#contacts5-v .list-group-text,
+#contacts5-v .form-control-label {
+  color: #000;
+}
+#contacts5-v strong,
+#contacts5-v h4 {
+  color: #7e9b9f;
+}
+#contacts5-v form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-v .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-v .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-v P {
+  text-align: left;
+}
+#contacts5-v LI {
+  color: #00a885;
 }
